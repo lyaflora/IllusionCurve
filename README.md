@@ -1,5 +1,6 @@
 # IllusionCurve
- A game about delusion of senses.
+![Game preview](./Screenshots/Preview.png)
+A game about delusion of senses.
 #
 This game contains illusions and visual tricks.
 The goal is to find the way to the end.
