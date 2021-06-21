@@ -13,6 +13,7 @@ The game is currently only available on a Windows 64-bit OS. However, most of th
 `⬇ Code > Download ZIP`
 
 After downloading, you should be able to unzip and launch the IllusionCurve-main/WindowsNoEditor/Illusion.exe file.
+## Thank you for playing!
 #
 ## In case of errors
 If an error with message starting like "Failed to open descriptor file" comes up, please navigate to [IllusionCurve/WindowsNoEditor/Illusion/Content/Paks/Illusion-WindowsNoEditor.pak](https://github.com/lyaflora/IllusionCurve/blob/main/WindowsNoEditor/Illusion/Content/Paks/Illusion-WindowsNoEditor.pak) here in the github repository, and press `Download`. Then replace the exisiting file on your PC in the same folder (IllusionCurve-main/WindowsNoEditor/Illusion/Content/Paks) with the downloaded file (Illusion-WindowsNoEditor.pak). It should start without complications now.
